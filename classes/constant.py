@@ -30,5 +30,6 @@ SPOUSE = 'همسر'
 WIFE = 'زن'
 HUSBAND = 'شوهر'
 
+STEP = 'خوانده'
 
 NO_FAMILY_RELATIONSHIP = 'بدون ارتباط فامیلی'
